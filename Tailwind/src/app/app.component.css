@@ -1,0 +1,16 @@
+.completo {
+    grid-column: auto;
+    height: 0%;
+    width: 500%;
+    
+}
+.cabeza{
+
+    height: 100%;
+    width: 500%;
+
+}
+.pie{
+    height: 100%;
+    width: 5000%;
+}
